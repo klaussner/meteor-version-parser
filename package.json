@@ -1,6 +1,6 @@
 {
   "name": "meteor-version-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse and compare Meteor package version numbers",
   "main": "index.js",
   "scripts": {
