@@ -1,0 +1,26 @@
+{
+  "name": "meteor-version-parser",
+  "version": "1.0.0",
+  "description": "Parse and compare Meteor package version numbers",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klaussner/meteor-version-parser.git"
+  },
+  "keywords": [
+    "meteor",
+    "atmosphere",
+    "package",
+    "version",
+    "parser",
+    "semver"
+  ],
+  "author": "Christian Klaussner",
+  "license": "MIT",
+  "dependencies": {
+    "semver": "^5.3.0"
+  }
+}
