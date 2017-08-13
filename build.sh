@@ -1,4 +1,4 @@
 #!/bin/sh
 wget \
-  https://raw.githubusercontent.com/meteor/meteor/46fddec786e3c8561ac9963fdb54ee3c9f0ddeea/packages/package-version-parser/package-version-parser.js \
+  https://raw.githubusercontent.com/meteor/meteor/3bdc0bb4eb0f5ba8b9f774aea9ec9ce2c8227654/packages/package-version-parser/package-version-parser.js \
   -q -O package-version-parser.js
